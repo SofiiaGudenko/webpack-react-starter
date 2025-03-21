@@ -21,7 +21,7 @@ webpack-react-starter/
 │ ├── fonts/ # Шрифты  
 │ ├── images/ # Изображения   
 │ └── index.tsx # Точка входа в приложение   
-├── webpack/ # Конфигурация Webpack 
+├── webpack/ # Конфигурация Webpack  
 │ ├── webpack.common.js # Общие настройки Webpack   
 │ ├── webpack.config.js # Основной конфигурационный файл  
 │ ├── webpack.dev.js # Настройки для разработки  
